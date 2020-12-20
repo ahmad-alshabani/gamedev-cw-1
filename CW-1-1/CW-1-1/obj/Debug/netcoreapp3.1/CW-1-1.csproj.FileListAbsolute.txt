@@ -1,0 +1,13 @@
+C:\Users\Asus\Documents\Game dev files\gamedev-cw-1\CW-1-1\CW-1-1\obj\Debug\netcoreapp3.1\CW-1-1.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Game dev files\gamedev-cw-1\CW-1-1\CW-1-1\obj\Debug\netcoreapp3.1\CW-1-1.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Game dev files\gamedev-cw-1\CW-1-1\CW-1-1\obj\Debug\netcoreapp3.1\CW-1-1.AssemblyInfo.cs
+C:\Users\Asus\Documents\Game dev files\gamedev-cw-1\CW-1-1\CW-1-1\obj\Debug\netcoreapp3.1\CW-1-1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Game dev files\gamedev-cw-1\CW-1-1\CW-1-1\bin\Debug\netcoreapp3.1\CW-1-1.exe
+C:\Users\Asus\Documents\Game dev files\gamedev-cw-1\CW-1-1\CW-1-1\bin\Debug\netcoreapp3.1\CW-1-1.deps.json
+C:\Users\Asus\Documents\Game dev files\gamedev-cw-1\CW-1-1\CW-1-1\bin\Debug\netcoreapp3.1\CW-1-1.runtimeconfig.json
+C:\Users\Asus\Documents\Game dev files\gamedev-cw-1\CW-1-1\CW-1-1\bin\Debug\netcoreapp3.1\CW-1-1.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Game dev files\gamedev-cw-1\CW-1-1\CW-1-1\bin\Debug\netcoreapp3.1\CW-1-1.dll
+C:\Users\Asus\Documents\Game dev files\gamedev-cw-1\CW-1-1\CW-1-1\bin\Debug\netcoreapp3.1\CW-1-1.pdb
+C:\Users\Asus\Documents\Game dev files\gamedev-cw-1\CW-1-1\CW-1-1\obj\Debug\netcoreapp3.1\CW-1-1.dll
+C:\Users\Asus\Documents\Game dev files\gamedev-cw-1\CW-1-1\CW-1-1\obj\Debug\netcoreapp3.1\CW-1-1.pdb
+C:\Users\Asus\Documents\Game dev files\gamedev-cw-1\CW-1-1\CW-1-1\obj\Debug\netcoreapp3.1\CW-1-1.genruntimeconfig.cache
