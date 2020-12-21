@@ -18,7 +18,7 @@ namespace CW_1_1
             string heroSuperPower1 = "Blades of Athena";
             string heroSuperPower2 = "Wrath of Valhalla";
 
-            int ageDifference = heroAge - age;
+            int ageDifference = Math.Abs(heroAge - age);
 
             Console.WriteLine("My name is {4}, and my superpowers are {3} and {2}. My age is {1} and my speed is {0} ", speed, age, superPower2, superPower1, characterName);
             Console.WriteLine("And my name is {0}, and my superpowers are {1} and {2}. I am {3} years old, and I am standing at {4}cm. ", heroName, superPower1, superPower2, heroAge, heroHeight);
